@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>Lista </title>
+</head>
+<body>
+    <h1>Nombre</h1>
+    <h5>CARRERA</h5>
+
+     <p>Trayecto</p>
+
+     Grupo 405
+
+     <hr>
+      
+     <h2>Datos</h2>
+     <ul>
+         <li>Carlos Fernando Yol Hernández</li>
+         <li>Profesional tecnico bachiller en informatica</li>
+         <li>Diseño web</li>
+     </ul>
+     </body>
+     </html>
